@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi,I'm Agrata Amatya
+Pursuing my BSc (Hons) Computer Science from the University of Wolverhampton (Herald College Kathmandu). Eager to collaborate on new projects.
 <!--
 **amatyaagrata/amatyaagrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
